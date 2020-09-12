@@ -1,6 +1,13 @@
-# hhkb_layout
-My own customization keyboard layout
+# HHKB Custom Layout
+My own keyboard customization layout  
 
-Layout editor on : http://www.tmk-kbd.com/tmk_keyboard/editor/unimap/?hhkb
+info: 
+- Layout editor on : http://www.tmk-kbd.com/tmk_keyboard/editor/unimap/?hhkb
+- Flash using FLIP [source](https://www.softpedia.com/get/Programming/Other-Programming-Files/Atmel-Flip.shtml)
 
-Flash using FLIP
+# Layout
+## Layer 0
+![hhkb layer 0](./hhkblayer0)
+
+# Layer 1
+![hhkb layer 1](./hhkblayer1)
