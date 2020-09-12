@@ -10,4 +10,4 @@ My own keyboard customization layout
 ![hhkb layer 0](./hhkblayer0.PNG)
 
 ### Layer 1
-![hhkb layer 1](./hhkblayer1.PNG)
+![hhkb layer 1](./hhkblayer1a.PNG)
