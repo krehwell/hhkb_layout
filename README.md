@@ -2,8 +2,8 @@
 My own keyboard customization layout  
 
 ## info: 
-- Layout editor on : http://www.tmk-kbd.com/tmk_keyboard/editor/unimap/?hhkb
-- Flash using FLIP [source](https://www.softpedia.com/get/Programming/Other-Programming-Files/Atmel-Flip.shtml)
+- Layout editor on : [source](http://www.tmk-kbd.com/tmk_keyboard/editor/unimap/?hhkb)
+- Flash using FLIP : [source](https://www.softpedia.com/get/Programming/Other-Programming-Files/Atmel-Flip.shtml)
 
 ## Layout
 ### Layer 0
